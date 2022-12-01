@@ -7,7 +7,7 @@ package com.example.exemplobd;
 
 /**
  *
- * @author coelho
+ * @author Dhiulia
  */
 public class SQL_Constantes {
 

@@ -27,7 +27,7 @@ import java.util.TreeMap;
 
 /**
  *
- * @author coelho
+ * @author Mariana
  */
 public class Exemplo extends Application {
 

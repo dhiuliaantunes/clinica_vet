@@ -1,5 +1,11 @@
 package com.example.exemplobd;
 
+/**
+ * Pet class
+ *
+ * @author Mariana
+ */
+
 public class Pet {
     private int id;
     private String nome;

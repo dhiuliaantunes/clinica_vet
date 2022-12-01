@@ -11,6 +11,12 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Dao_Pet class
+ *
+ * @author Mariana
+ */
+
 public class Dao_Pet {
     public void adiciona(Pet p) throws SQLException {
         String sql = SQL_Constantes.INSERT;
