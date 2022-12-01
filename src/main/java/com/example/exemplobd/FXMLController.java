@@ -84,8 +84,6 @@ public class FXMLController implements Initializable {
             if (bt.get() == ButtonType.YES) {
                 try {
                     Pet pet = new Pet();
-                    //Aluno contato = new Aluno();
-
                     pet.setNome(texto_nome_insere.getText());
                     pet.setTipo(texto_tipo_insere.getText());
                     pet.setSexo(texto_sexo_insere.getText());

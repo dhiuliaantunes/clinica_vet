@@ -139,10 +139,12 @@
                                     <TableView fx:id="tabela" prefHeight="368.0" prefWidth="600.0">
                                       <columns>
                                         <TableColumn fx:id="coluna_nome" prefWidth="282.0" text="Nome" />
-                                        <TableColumn fx:id="coluna_nota1" prefWidth="78.0" text="Nota 1" />
-                                          <TableColumn fx:id="coluna_nota2" prefWidth="78.0" text="Nota 2" />
-                                          <TableColumn fx:id="coluna_nota3" text="Nota 3" />
-                                          <TableColumn fx:id="coluna_media" prefWidth="81.0" text="Media" />
+                                        <TableColumn fx:id="coluna_tipo" prefWidth="78.0" text="Tipo" />
+                                          <TableColumn fx:id="coluna_sexo" prefWidth="78.0" text="Sexo" />
+                                          <TableColumn fx:id="coluna_idade" text="Idade" />
+                                          <TableColumn fx:id="coluna_raca" prefWidth="81.0" text="Raça" />
+                                          <TableColumn fx:id="coluna_peso" prefWidth="81.0" text="Peso" />
+                                          <TableColumn fx:id="coluna_dono" prefWidth="81.0" text="Dono" />
                                       </columns>
                                     </TableView>
                                  </children></AnchorPane>
